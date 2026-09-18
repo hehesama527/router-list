@@ -60,3 +60,12 @@ export OPENAI_API_KEY=你的令牌
 - 便宜档会抖，生产不要只靠最便宜那条
 - 不保证一直可用，重要项目留官方账号做备用
 - 不是 OpenAI / Anthropic 官方
+
+## 联系方式
+
+如果不会可以联系站长
+vx：notionrealistic
+qq：2729218653
+
+
+
